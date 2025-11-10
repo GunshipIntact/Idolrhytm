@@ -1,2 +1,2 @@
 # Idolrhytm
-Balatro Deck Picking Algorhtym test for Idol
+Balatro Deck Picking Algorhtym test for Idol, yes
